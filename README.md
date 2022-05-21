@@ -1,6 +1,6 @@
 ### Hey 👋, I'm MaPenghui
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=penghuima&show_icons=true&hide_border=true&theme=vue-dark" />**About me:**
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width=500 height=230/>**About me:**
 
 👨🏽‍💻 I'm currently pursuing a master's degree at NUDT
 
